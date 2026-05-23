@@ -1,4 +1,4 @@
-# _ Day 02 — SOC Core Concepts, Security Teams & Human Attack Vectors _#
+#  Day 02 — SOC Core Concepts, Security Teams & Human Attack Vectors 
 Last updated: Day 2 of the 30-day cybersecurity challenge · Difficulty: Intermediate
 
 # 📚 Table of Contents
